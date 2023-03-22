@@ -61,21 +61,6 @@ nav .navigation ul{
     align-items: center;
 }
 
-nav .navigation ul li{
-    list-style: none;
-    margin-left: 35px;
-}
 
-nav .navigation ul li a{
-    text-decoration: none;
-    color: var(--light-slate);
-    font-size: 20px;
-    font-weight: 500;
-    transition: 0.2s ease;
-}
-
-nav .navigation ul li a:hover{
-    color: var(--light-blue);
-}
 
 
